@@ -47,4 +47,4 @@ data = dict(
 )
 
 # runtime settings
-work_dir = f'./work_dirs/{exp_name}'
+work_dir = f'/root/autodl-tmp/work_dirs/{exp_name}'
